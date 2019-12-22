@@ -1,0 +1,34 @@
+.logo img {
+    width: 200px;
+}
+
+.navigation{
+    padding-top: 20px;;
+    display: flex;
+}
+
+.toggle{
+    display: none;
+}
+
+.right{
+    width: 100%;
+    
+}
+.menu {
+    margin-right: 100px;
+}
+
+.menu ul{
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.menu ul li a{
+    color: #303030;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+

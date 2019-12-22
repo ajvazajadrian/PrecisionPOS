@@ -1,0 +1,35 @@
+.kiosk {
+  width: 100%;
+  background-image: url("/images/dots-background.png");
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-position: top;
+  background-attachment: inherit;
+  color: #303030;
+}
+
+.text-box {
+  font-size: 18px;
+  line-height: 27px;
+  padding: 20px;
+  width: 30%;
+  height: 1%;
+  background-color: white;
+  margin-top: 90px;
+  z-index: 2;
+
+  h2{
+      font-size: 45px;
+      font-weight: bold;;
+  }
+}
+
+
+.kiosk-girl {
+  position: absolute;
+  width: 50%;
+  margin-top: 130px;
+  margin-left: 300px;
+  z-index: 1;
+}

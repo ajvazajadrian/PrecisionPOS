@@ -1,0 +1,55 @@
+.about-box{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.about-image{
+    box-sizing: border-box;
+    width: 900px;
+}
+
+.logo-entrance{
+    width: 800px;
+}
+
+.about{
+    width: 80%;
+
+    h5{
+        font-size: 55px;
+        width: 80%;
+        color: #303030;
+        line-height: 95px;
+        font-weight: 400;
+        
+    }
+    strong{
+        font-weight: bold;
+    }
+
+    h1{
+        font-size: 70px;
+        width: 50%;
+        line-height: 80px;
+        margin: 0px;
+        padding-top: 30px;
+        color: #303030;
+    }
+    
+}
+
+.logo-entrance{
+    width: 100%;
+}
+
+.second{
+    font-size: 19px;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+.third{
+    font-size: 19px;
+    line-height: 40px;
+    padding-bottom: 30px;
+}

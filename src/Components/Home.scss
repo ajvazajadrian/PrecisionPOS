@@ -1,0 +1,105 @@
+.title-m{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 50px;
+    margin-bottom: -30px;
+}
+
+.head-text{
+    padding-top: 15px;
+   
+width: 55%;
+}
+.title-xl{
+    font-size: 50px;
+}
+
+.head-title{
+padding-bottom: 50px;
+    display: flex;
+}
+
+.product-picture{
+    width: 450px;
+}
+
+.information-icons{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   
+}
+
+
+.help-title{
+    font-size: 38px;
+    width: 30%;
+    line-height: 50px;
+}
+
+.info-box{
+    width: 40%;
+
+    p{
+        line-height: 25px;
+        font-size: 15px;
+    }
+    h4{
+        font-weight: bold;
+        font-size: 18px;
+    }
+}
+
+.customer-logos{
+    color: #303030;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.company-logos{
+    display: flex;
+    justify-content: center;
+}
+
+.logoBox h6{
+    font-size: 15px;
+}
+
+.company-info{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+    color: #303030;
+}
+
+header{
+    margin-top: 100px;
+    color: #303030;
+}
+
+.info-icons {
+    width: 80px;
+}
+
+.info-block{
+    display: flex;
+
+    img{
+        width: 55px;
+        height: 55px;
+    }
+}
+.text-block{
+    margin-top: -6px;
+h5{
+
+    padding-left: 30px;
+    line-height: 30px;
+    margin: 0px;
+}
+a {
+    color: #303030;
+}
+} 
