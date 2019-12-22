@@ -15,10 +15,10 @@ export default class Nav extends Component {
             <input type="checkbox" className="toggle" />
             <div className="menu">
             <ul>
-              <li><a href="/services">Services</a> </li>
-              <li><a href="/pricing">Pricing</a> </li>
-              <li><a href="/contact">Contact</a> </li>
-              <li><a href="/about">About</a> </li>
+              <li><Link to="/services">Services</Link> </li>
+              <li><Link to="/pricing">Pricing</Link> </li>
+              <li><Link to="/contact">Contact</Link> </li>
+              <li><Link to="/about">About</Link> </li>
             </ul>
           </div>
           </div>
